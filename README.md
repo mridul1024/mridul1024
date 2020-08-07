@@ -4,7 +4,7 @@
 - 👯 I’m looking to collaborate on ...Native Android development projects
 - 🤔 I’m looking for help with ...Android UI design and animation 
 - 💬 Ask me about ...stuff related to Java/Kotlin/MVVM/MVP/Room/HILT/Retrofit/Flows/Rxjava
-- 📫 How to reach me: ... (mridul1024.github.io)
+
 <!--
 **mridul1024/mridul1024** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
