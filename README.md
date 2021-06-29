@@ -1,10 +1,13 @@
 ### Hi there 👋
-- 🔭 I’m currently working on ...Android SDK
-- 👯 I’m looking to collaborate on ...Native Android development projects
-- 🤔 I’m looking for help with ...Android UI design and animation 
+- 🔭 I’m currently working on ...NodeJs
+- 👯 I’m looking to collaborate on ...NodeJs and ReactJs applications
 
 <!--
 **mridul1024/mridul1024** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+//removed line
+- 🤔 I’m looking for help with ...NodeJs 
+
 
 Here are some ideas to get you started:
 
