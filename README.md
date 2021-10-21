@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🔭 I’m currently working on ...NodeJs
+- 🔭 I’m currently working with ...ReactJs
 - 👯 I’m looking to collaborate on ...NodeJs and ReactJs applications
 
 <!--
