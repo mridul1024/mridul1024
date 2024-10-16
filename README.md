@@ -8,7 +8,7 @@
 
 ---
 
-- 🌱 I’m currently learning **Next JS, Fastify, and GoLang**
+- 🌱 I’m currently learning **Fastify, and GoLang**
 - 💬 Ask me about **React, Node, Typescript, AWS Cloud infrastructure**
 - 📫 How to reach me: **mridul1024@gmail.com**
 - ⚡ Fun fact: **Did you know that the first computer bug was actually a moth stuck in a machine?**
